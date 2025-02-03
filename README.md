@@ -1,5 +1,7 @@
 # case-kit
 
+![npm bundle size](https://img.shields.io/bundlephobia/min/case-kit) ![npm](https://img.shields.io/npm/v/case-kit) ![NPM](https://img.shields.io/npm/l/case-kit)
+
 A collection of functions to convert strings between various cases.
 
 ## Installation
